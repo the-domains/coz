@@ -29,31 +29,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/230c7d49-d5cb-4882-b341-94d50d07e29e.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/230c7d49-d5cb-4882-b341-94d50d07e29e.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 content_rating:
   adult: false
 opengraph: {}
