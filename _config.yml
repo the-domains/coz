@@ -29,7 +29,46 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>Website Graphic Design Weymouth - Arise Web
+      Design</h1><p>Website graphic design Weymouth: An important feature of
+      your website, will be the images that you chose to help catch the eye. The
+      images that you will use, can range from the graphics of the logo, to
+      photo&apos;s that you wish to include to enhance your content.</p><img
+      src="https://www.arisewebdesign.co.uk/wp-content/uploads/2013/03/271-Medium.jpg"></article>
+    src: 'https://www.arisewebdesign.co.uk/wp-content/uploads/2013/03/271-Medium.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://www.arisewebdesign.co.uk'
+        name: Arise Web Design
+        favicon: 'https://www.arisewebdesign.co.uk/favicon.ico'
+        domain: www.arisewebdesign.co.uk
+      keywords: []
+      description: >-
+        Website graphic design Weymouth: An important feature of your website,
+        will be the images that you chose to help catch the eye. The images that
+        you will use, can range from the graphics of the logo, to photo's that
+        you wish to include to enhance your content.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://www.arisewebdesign.co.uk/cost-web-designer-weymouth/website-graphic-design-weymouth/
+      title: Website Graphic Design Weymouth - Arise Web Design
+      datePublished: null
+    title: Website Graphic Design Weymouth - Arise Web Design
+    caption: >-
+      Website graphic design Weymouth: An important feature of your website,
+      will be the images that you chose to help catch the eye. The images that
+      you will use, can range from the graphics of the logo, to photo's that you
+      wish to include to enhance your content.
+    text: !<tag:yaml.org,2002:js/undefined> ''
 content_rating:
   adult: false
 opengraph: {}
