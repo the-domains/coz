@@ -54,7 +54,6 @@ content:
         will be the images that you chose to help catch the eye. The images that
         you will use, can range from the graphics of the logo, to photo's that
         you wish to include to enhance your content.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
