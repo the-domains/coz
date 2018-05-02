@@ -1,0 +1,66 @@
+layout_spectrum: 0.682508038705639
+typography_spectrum: 0.3765171526984708
+color:
+  lightness: 0.8623894198377164
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  saturation: 0.18900355309690578
+  brandStrength: 0.7883665657364348
+  rhythmicContrast: 0.5925715532431397
+name: Coz Creations
+analytics: {}
+description: The beginnings of my innane ramblings
+author:
+  name: James Cosgrove
+  email: j.cosgrove88@icloud.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/230c7d49-d5cb-4882-b341-94d50d07e29e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/230c7d49-d5cb-4882-b341-94d50d07e29e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+content_rating:
+  adult: false
+opengraph: {}
+title: Coz Creations
+purpose:
+  - type: contact
+    url: 'mailto:j.cosgrove88@icloud.com'
+    label: E-mail Me
+url: 'https://thegrid.ai/coz/'
+github: true
