@@ -1,16 +1,16 @@
-layout_spectrum: 0.682508038705639
-typography_spectrum: 0.3765171526984708
+layout_spectrum: 0.041704125160277626
+typography_spectrum: 0.040898761485730954
 color:
-  lightness: 0.8623894198377164
+  lightness: 0.7625721352667281
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  saturation: 0.18900355309690578
-  brandStrength: 0.7883665657364348
-  rhythmicContrast: 0.5925715532431397
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  saturation: 0.05210217615395858
+  brandStrength: 0.6637569987546137
+  rhythmicContrast: 0.9808378310156709
 name: Coz Creations
 analytics: {}
 description: The beginnings of my innane ramblings
@@ -47,7 +47,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
